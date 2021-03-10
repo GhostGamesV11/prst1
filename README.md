@@ -1,2 +1,2 @@
-# praca domowa 1
+# praca domowa 
 # Bartosz Okoński
